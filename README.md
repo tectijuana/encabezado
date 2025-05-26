@@ -120,7 +120,7 @@
 #
 # 🐧✨ Tux te da la bienvenida al mundo del código libre ✨🐧
 # ════════•°• Proyecto con MicroPython y espíritu Linux •°•════════
-```
+
 
 ---
 
@@ -234,14 +234,4 @@
 # ════════•°• Disponible ahora en tu Raspberry Pi Pico W •°•════════
 ```
 
-
-
-
-
----
-
-
-
-
-````
 
