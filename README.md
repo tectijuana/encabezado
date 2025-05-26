@@ -1,6 +1,8 @@
 
 ### 🧠 Encabezados temáticos para jóvenes programadores
 
+GTP Store para generarlo via https://chatgpt.com/share/6833b954-bcc8-8011-9a98-0e356049f70b
+
 ---
 
 #### 1. 👽 Estilo Alienígena: Sensor de luz
@@ -232,6 +234,25 @@
 # 🍿🔴 ESTÁS VIENDO: **"GPIO: El Pulso del Código"**
 # 📺 TEMPORADA 1 · Episodio 1 · Producido con MicroPython
 # ════════•°• Disponible ahora en tu Raspberry Pi Pico W •°•════════
+
+---
+# ✨🌸･ﾟ: *✧･ﾟ:* 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪 𝓚𝓪𝔀𝓪𝓲𝓲 𝓟𝓲𝓬𝓸 *:･ﾟ✧*:･ﾟ🌸✨
+# ╭──────────────────────────────────────────╮
+# │  💻 Asignatura: Lenguajes de Interfaz    │
+# │          TECNM Campus ITT                │
+# │  🧁 Autor@: Yuki-chan Kodama              │
+# │  📅 Fecha: 2025/05/25                     │
+# │  💡 Descripción:                          │
+# │  Este programa enciende un LED al        │
+# │  presionar un botón en la Raspberry Pi   │
+# │  Pico W, como si fuera un hechizo. ✨🔮    │
+# │  🧪 Simulación Wokwi:                     │
+# │  https://wokwi.com/projects/kawaii-led   │
+# ╰──────────────────────────────────────────╯
+
+# 🐰🌟 𝓜𝓸𝓭𝓾𝓵𝓸: "𝐋𝐮𝐳 𝐦𝐚́𝐠𝐢𝐜𝐚 𝐝𝐞𝐬𝐝𝐞 𝐌𝐚𝐫𝐬𝐡𝐦𝐚𝐥𝐥𝐨𝐰" 🌟🐰
+# 🌈✨ Recuerda: "El código también puede ser adorable y brillante" ✨🌈
+
 ```
 
 
