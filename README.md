@@ -1,8 +1,4 @@
-Claro, aquí tienes **todas las propuestas anteriores en un solo bloque de Markdown**. Puedes copiarlo directamente para usarlo en plataformas como GitHub o en un entorno que acepte formato Markdown con arte ASCII.
 
----
-
-````markdown
 ### 🧠 Encabezados temáticos para jóvenes programadores
 
 ---
