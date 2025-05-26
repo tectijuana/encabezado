@@ -123,5 +123,125 @@
 ```
 
 ---
+
+# ⚡👁‍🗨 CYBER PUERTO SERIAL 2077 ⚡👁‍🗨
+# [:: Cargando datos del futuro... ::]
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Natalia Romero Valdés                                                         |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: Comunicación serial entre Raspberry Pi Pico W y consola, simulando      |
+# |   un escáner de datos cibernético.                                                     |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396556778000000123              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🔌💬 Bienvenido al universo cyber-digital 💬🔌
+# ════════•°• Transmisión de datos en estilo NeoTokyo •°•════════
+
+---
+# ░█▀█░█▀█░█░█░▀█▀░█▀▀
+# ░█▀█░█▀█░█▀█░░█░░▀▀█
+# ░▀░▀░▀░▀░▀░▀░░▀░░▀▀▀
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Bryan Esquivel Ojeda                                                          |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: Juego simple tipo "golpea el botón correcto" usando LEDs y botones.     |
+# |   ¡Como en las maquinitas!                                                             |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396556812345678901              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🕹️🎮 ¡Presiona rápido! ¡Es como un mini arcade! 🎮🕹️
+# ════════•°• Proyecto en MicroPython estilo retro •°•════════
+
+
+
+---
+
+# ⌨️ THE MATRIX: ANALOG CONTROL MODULE 🧪
+# ░█▀▀░█▀█░█▀▀░█░█░█░░░█▀▀
+# ░█░█░█▀█░▀▀█░█░█░█░░░▀▀█
+# ░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Hugo Gerardo Vargas Rivera                                                    |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: Controla la intensidad de un LED mediante un potenciómetro,             |
+# |   simulando controladores del universo Matrix.                                         |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396556898765432198              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🧬🔧 MicroPython + hardware = manipulación de la realidad
+# ════════•°• Lectura analógica en tiempo real •°•════════
+
+
+
+---
+# 🌫️⋆｡°✩ RESPIRA, JOVEN HACKER ✩°｡⋆🌫️
+# ╭───╮       ╭───╮
+# │   │       │   │   MicroPython Zen LED Breathing
+# ╰───╯       ╰───╯
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Diana Sofía Cota Márquez                                                      |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: Un LED respira lentamente encendiéndose y apagándose con PWM,           |
+# |   ayudando a relajarse mientras aprendes a programar.                                  |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396557111000000321              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🍃🧘‍♂️ Siente la frecuencia del código tranquilo 🧘‍♂️🍃
+# ════════•°• Control de PWM con MicroPython •°•════════
+
+
+
+
+---
+# ⚔️🐉 MISIÓN: CUEVA DEL SENSOR DRAGÓNICO 🐉⚔️
+# [ 🛡️ Aventurero: activa el LED al detectar enemigos con sensor ultrasónico ]
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Manuel Ignacio Martínez Rivera                                                |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: El sensor ultrasónico detecta distancias y activa señales como si       |
+# |   fueran trampas mágicas en una mazmorra 🏰.                                           |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396557222000000456              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🧙‍♂️✨ ¡Que el código te acompañe, valiente mago del GPIO! ✨🧙‍♂️
+# ════════•°• Aventura épica con sensores •°•════════
+
+---
+
+#### 12. 🎬 Estilo Netflix: Monitor de actividad con LED
+
+```python
+# ░▒▓█ NET•CODE ORIGINAL █▓▒░
+# ████████████████████████████████████████████████████████████████
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎬  UN CÓDIGO EXCLUSIVO DE ITT PRODUCTIONS
+# |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+# | • Lenguajes de Interfaz en TECNM Campus ITT                                            |
+# | • Autor: Emilio González Castillo                                                      |
+# | • Fecha: 2025/05/25                                                                    |
+# | • Descripción: Este sketch enciende un LED cuando el usuario presiona un botón,        |
+# |   creando una interfaz básica de "estado activo", como si se tratara de una escena     |
+# |   de suspenso tecnológico.                                                             |
+# | • Link simulación en Wokwi: https://wokwi.com/projects/396558000000000999              |
+# ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+#
+# 🍿🔴 ESTÁS VIENDO: **"GPIO: El Pulso del Código"**
+# 📺 TEMPORADA 1 · Episodio 1 · Producido con MicroPython
+# ════════•°• Disponible ahora en tu Raspberry Pi Pico W •°•════════
+```
+
+
+
+
+
+---
+
+
+
+
 ````
 
