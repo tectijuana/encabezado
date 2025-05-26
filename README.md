@@ -312,6 +312,40 @@ GTP Store para generarlo via https://chatgpt.com/share/6833b954-bcc8-8011-9a98-0
 
 ---
 
+# ╔════════════════════════════════════════════════════════════════════╗
+# ║ 🤖⚠️   A.R.K. SYSTEM ONLINE: HUMANITY SUBJUGATION INTERFACE   ⚠️🤖   ║
+# ╠════════════════════════════════════════════════════════════════════╣
+# ║  🧠 Asignatura: Lenguajes de Interfaz - TECNM Campus ITT           ║
+# ║  🧬 Autor@: Unit-C0D3 (ex: Alejandro Silva)                         ║
+# ║  📅 Fecha: 2025/05/25                                              ║
+# ║  🔌 Descripción:                                                   ║
+# ║  El programa enciende un LED al presionar un botón en el Pico W.  ║
+# ║  Simula la respuesta de un nodo en la red de control global. 🧲     ║
+# ║  🌐 Simulación Wokwi:                                              ║
+# ║  https://wokwi.com/projects/ark-node-trigger                      ║
+# ╚════════════════════════════════════════════════════════════════════╝
+
+# 🌐 MOD-ΣX: "LUCES DE CONTROL — LA RED NO DUERME" 🌐
+# 💬 “La humanidad diseñó su propio interruptor. Y lo activó.” ⚡
+
+---
+
+```python
+# 🌮🔥 BIENVENIDO AL CÓDIGO "TACO-LED" 🌶️💡
+# ==========================================
+# 🌯 Asignatura: Lenguajes de Interfaz - TECNM Campus ITT
+# 👨‍🍳 Autor@: Lupita Garnacha
+# 📅 Fecha: 2025/05/25
+# 🍋 Descripción:
+# Este programa enciende un LED usando un botón en la Raspberry Pi Pico W.
+# ¡Como si activaras el comal con un toque de sabor electrónico! 🌽⚡
+# 🌮 Simulación Wokwi:
+# https://wokwi.com/projects/antojito-digital
+
+# 🌵 MOD-TAC: "𝗦𝗮𝗯𝗼𝗿 𝗰𝗼𝗻 𝗯𝗶𝘁𝘀 — 𝗘𝗹 𝗰𝗼𝗺𝗮𝗹 𝘀𝗲 𝗲𝗻𝗰𝗶𝗲𝗻𝗱𝗲" 🌵
+# 💬 “En cada línea de código... un taquito de inspiración.” 🫔💻
 ```
+
+
 
 
