@@ -1,5 +1,5 @@
 
-### 🧠 Encabezados temáticos para jóvenes programadores
+### 🧠 Encabezados temáticos para sus programas
 
 GTP Store para generarlo via https://chatgpt.com/share/6833b954-bcc8-8011-9a98-0e356049f70b
 
