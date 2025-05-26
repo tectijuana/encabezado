@@ -8,6 +8,26 @@ GTP Store para generarlo via https://chatgpt.com/share/6833b954-bcc8-8011-9a98-0
 #### 1. 👽 Estilo Alienígena: Sensor de luz
 
 ```python
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║ 🛡️⚔️   SCOUT CODE DIVISION: WALL-MARIA SIGNAL SYSTEM   ⚔️🛡️   ║
+# ╠══════════════════════════════════════════════════════════════════╣
+# ║  🏰 Asignatura: Lenguajes de Interfaz - TECNM Campus ITT         ║
+# ║  👤 Autor@: Armin Jäger                                            ║
+# ║  📅 Fecha: 2025/05/25                                            ║
+# ║  🗡️ Descripción:                                                 ║
+# ║  Programa de encendido de LED por botón en Raspberry Pi Pico W.  ║
+# ║  Como si activaras una bengala de advertencia tras los muros.🔥   ║
+# ║  🛰️ Simulación Wokwi:                                            ║
+# ║  https://wokwi.com/projects/titan-signal-flare                   ║
+# ╚══════════════════════════════════════════════════════════════════╝
+
+# 🧱 MOD-09: "𝗟𝗼𝘀 𝗖𝗼𝗱𝗶𝗴𝗼𝘀 𝗱𝗲𝗹 𝗘𝗿𝗲𝗻 𝗗𝗲𝗽𝘂𝗿𝗮𝗱𝗼𝗿" 🧱
+# 💬 “Quien nace tras los muros... también puede dominar el código.” 🕯️
+
+
+---
+
+
 # 👽🛸 ｡･ﾟﾟ･ ESPACIO EXTERIOR CON SENSORES 🌌･ﾟﾟ･｡
 # ╭(☆▽☆)╯
 # |￣U U￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
@@ -252,6 +272,45 @@ GTP Store para generarlo via https://chatgpt.com/share/6833b954-bcc8-8011-9a98-0
 
 # 🐰🌟 𝓜𝓸𝓭𝓾𝓵𝓸: "𝐋𝐮𝐳 𝐦𝐚́𝐠𝐢𝐜𝐚 𝐝𝐞𝐬𝐝𝐞 𝐌𝐚𝐫𝐬𝐡𝐦𝐚𝐥𝐥𝐨𝐰" 🌟🐰
 # 🌈✨ Recuerda: "El código también puede ser adorable y brillante" ✨🌈
+
+---
+
+# ✨🌸･ﾟ: *✧･ﾟ:* 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪 𝓚𝓪𝔀𝓪𝓲𝓲 𝓟𝓲𝓬𝓸 *:･ﾟ✧*:･ﾟ🌸✨
+# ╭──────────────────────────────────────────╮
+# │  💻 Asignatura: Lenguajes de Interfaz    │
+# │          TECNM Campus ITT                │
+# │  🧁 Autor@: Yuki-chan Kodama              │
+# │  📅 Fecha: 2025/05/25                     │
+# │  💡 Descripción:                          │
+# │  Este programa enciende un LED al        │
+# │  presionar un botón en la Raspberry Pi   │
+# │  Pico W, como si fuera un hechizo. ✨🔮    │
+# │  🧪 Simulación Wokwi:                     │
+# │  https://wokwi.com/projects/kawaii-led   │
+# ╰──────────────────────────────────────────╯
+
+# 🐰🌟 𝓜𝓸𝓭𝓾𝓵𝓸: "𝐋𝐮𝐳 𝐦𝐚́𝐠𝐢𝐜𝐚 𝐝𝐞𝐬𝐝𝐞 𝐌𝐚𝐫𝐬𝐡𝐦𝐚𝐥𝐥𝐨𝐰" 🌟🐰
+# 🌈✨ Recuerda: "El código también puede ser adorable y brillante" ✨🌈
+
+---
+
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║ 🚀👾   ROBOTECH CODE UNIT: VERTICLE RESONANCE PROTOCOL   👾🚀    ║
+# ╠══════════════════════════════════════════════════════════════════╣
+# ║  🛡️ Asignatura: Lenguajes de Interfaz - TECNM Campus ITT         ║
+# ║  🧑‍🚀 Autor@: Hikaru Sterling                                     ║
+# ║  📅 Fecha: 2025/05/25                                            ║
+# ║  🎯 Descripción:                                                 ║
+# ║  Activación de sistema LED por botón en Raspberry Pi Pico W.    ║
+# ║  ¡Como si activaras un mecha desde la cabina! 🕹️⚡               ║
+# ║  🌐 Simulación Wokwi:                                            ║
+# ║  https://wokwi.com/projects/veritech-led-ignite                 ║
+# ╚══════════════════════════════════════════════════════════════════╝
+
+# 🛰️ MOD-02: "Luz de Combate en la Frontera del Espacio" 🛰️
+# 💬 “Cuando presionas el botón, el destino del escuadrón se ilumina.” 🌌
+
+---
 
 ```
 
